@@ -1,0 +1,22 @@
+export const List = [
+    {
+        imgUrl:'./Images/List7.jpg',
+        itemsTitle:''
+    },
+    {
+        imgUrl:'',
+        itemsTitle
+    },
+    {
+        imgUrl:'',
+        itemsTitle
+    },
+    {
+        imgUrl:'',
+        itemsTitle
+    },
+    {
+        imgUrl:'',
+        itemsTitle
+    }
+]

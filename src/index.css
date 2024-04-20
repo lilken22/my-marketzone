@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.shadow{
+  position: absolute;
+  inset: 0;
+  top: 0;
+  left:0;
+  height: 100%;
+  width: 100%;
+  background:linear-gradient(to bottom, rgba(9, 39, 38, 0.21)0%,rgba(43, 44, 43, 0.21)40%,rgba(35, 36, 34, 0.21)00%);
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  overflow: hidden
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
